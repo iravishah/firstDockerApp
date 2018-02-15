@@ -1,0 +1,22 @@
+{
+  "name": "docker-handson",
+  "version": "1.0.0",
+  "description": "Hands on docker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "docker",
+    "express"
+  ],
+  "author": "Ravi Shah",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "engines": {
+    "node": "8.9.3"
+  }
+}
